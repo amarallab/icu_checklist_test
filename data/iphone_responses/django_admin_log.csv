@@ -1,0 +1,6 @@
+id,action_time,object_id,object_repr,action_flag,change_message,content_type_id,user_id
+2,2016-04-20 18:47:53,2,fellow1,3,,4,2
+3,2016-04-20 18:48:06,3,anna,1,Added.,4,2
+4,2016-04-20 18:48:42,4,john,1,Added.,4,2
+5,2016-05-10 19:23:43,5,memorial,1,Added.,4,2
+6,2016-05-10 19:23:51,5,memorial,2,Changed is_staff and is_superuser.,4,2

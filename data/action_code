@@ -1,0 +1,38 @@
+#### Object ####
+0,beaconTimer
+1,backendLogin
+2,cernerObtainToken
+3,cernerAuthenticate
+4,selectUnit
+5,login
+6,patientList
+7,patientDetail
+#### Action ####
+0,error
+# Actions for object: beaconTimer
+101,beaconStatus
+# Actions for object: backendLogin
+201,challenge
+202,challengeError
+203,challengeAccepted
+204,connecting
+205,logged
+206,logout
+# Actions for object: cernerAuthenticate
+301,obtained
+302,authenticating
+303,authenticated
+# Actions for object: selectUnit
+401,selected
+# Actions for object: patientList & patientDetail
+501,help
+502,loaded
+503,loadError
+# Actions for object: patientList
+601,refresh
+602,selectPatient
+# Actions for object: patientDetail
+701,answer
+702,showGroup
+703,EMRInfoHidden
+704,EMRInfoExpanded

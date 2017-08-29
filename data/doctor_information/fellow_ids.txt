@@ -1,0 +1,20 @@
+LastName,PowerChartID,Position
+Malsin,nm177774,Fellow
+Sivarajan,lsivaraj,Fellow
+Ferguson,nm177671,Fellow
+Thornton,nm177881,Fellow
+Gandhi,nm177680,Fellow
+Scott,mscott4,Fellow
+Shea,nshea2,Fellow
+Walter,jwalter2,Fellow
+Reyfman,preyfman,Fellow
+Kruser,jkruser,Fellow
+Paonessa,jpaoness,Fellow
+Hountras,phountra,Fellow
+Sharma,rsharma4,Fellow
+Brueder,abrueder,Fellow
+Frogameni,afrogame,Fellow
+
+Coleman,jcolema2,Attending
+Lombardo,tlombard,NursePractitioner
+Wild, Leigh, lwild, NursePractitioner

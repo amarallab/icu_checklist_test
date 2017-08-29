@@ -1,0 +1,67 @@
+id,name,content_type_id,codename
+1,Can add log entry,1,add_logentry
+2,Can change log entry,1,change_logentry
+3,Can delete log entry,1,delete_logentry
+4,Can add permission,2,add_permission
+5,Can change permission,2,change_permission
+6,Can delete permission,2,delete_permission
+7,Can add group,3,add_group
+8,Can change group,3,change_group
+9,Can delete group,3,delete_group
+10,Can add user,4,add_user
+11,Can change user,4,change_user
+12,Can delete user,4,delete_user
+13,Can add content type,5,add_contenttype
+14,Can change content type,5,change_contenttype
+15,Can delete content type,5,delete_contenttype
+16,Can add session,6,add_session
+17,Can change session,6,change_session
+18,Can delete session,6,delete_session
+19,Can add Token,7,add_token
+20,Can change Token,7,change_token
+21,Can delete Token,7,delete_token
+22,Can add backend token,8,add_backendtoken
+23,Can change backend token,8,change_backendtoken
+24,Can delete backend token,8,delete_backendtoken
+25,Can add t metry entry,9,add_tmetryentry
+26,Can change t metry entry,9,change_tmetryentry
+27,Can delete t metry entry,9,delete_tmetryentry
+28,Can add t metry entry beacon,10,add_tmetryentrybeacon
+29,Can change t metry entry beacon,10,change_tmetryentrybeacon
+30,Can delete t metry entry beacon,10,delete_tmetryentrybeacon
+31,Can add beacon configuration,11,add_beaconconfiguration
+32,Can change beacon configuration,11,change_beaconconfiguration
+33,Can delete beacon configuration,11,delete_beaconconfiguration
+34,Can add patient,12,add_patient
+35,Can change patient,12,change_patient
+36,Can delete patient,12,delete_patient
+55,Can add patient response,19,add_patientresponse
+56,Can change patient response,19,change_patientresponse
+57,Can delete patient response,19,delete_patientresponse
+58,Can add user data,20,add_userdata
+59,Can change user data,20,change_userdata
+60,Can delete user data,20,delete_userdata
+61,Can add checklist,21,add_checklist
+62,Can change checklist,21,change_checklist
+63,Can delete checklist,21,delete_checklist
+64,Can add backend token,22,add_backendtoken
+65,Can change backend token,22,change_backendtoken
+66,Can delete backend token,22,delete_backendtoken
+67,Can add patient,23,add_patient
+68,Can change patient,23,change_patient
+69,Can delete patient,23,delete_patient
+70,Can add challenge,24,add_challenge
+71,Can change challenge,24,change_challenge
+72,Can delete challenge,24,delete_challenge
+73,Can add feedback,25,add_feedback
+74,Can change feedback,25,change_feedback
+75,Can delete feedback,25,delete_feedback
+76,Can add beacon configuration region,26,add_beaconconfigurationregion
+77,Can change beacon configuration region,26,change_beaconconfigurationregion
+78,Can delete beacon configuration region,26,delete_beaconconfigurationregion
+79,Can add clear patient,27,add_clearpatient
+80,Can change clear patient,27,change_clearpatient
+81,Can delete clear patient,27,delete_clearpatient
+82,Can add patient detail entry,28,add_patientdetailentry
+83,Can change patient detail entry,28,change_patientdetailentry
+84,Can delete patient detail entry,28,delete_patientdetailentry
